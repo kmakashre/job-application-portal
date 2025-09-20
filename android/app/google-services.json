@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "525799943137",
+    "project_id": "auth-ddefd",
+    "storage_bucket": "auth-ddefd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525799943137:android:5ff047298ba008b81480a0",
+        "android_client_info": {
+          "package_name": "com.example.authf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525799943137-i6io22fqca077mlra9muf5p778c3d6ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYDdKP6M74xY5B-bTWWiA-8RAJi0wuA_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525799943137-i6io22fqca077mlra9muf5p778c3d6ec.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525799943137-7ee8v53vjbdtrrfdc2e1o0g8347vfv12.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525799943137:android:fc147d286ae879d31480a0",
+        "android_client_info": {
+          "package_name": "com.example.job_apply_form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525799943137-i6io22fqca077mlra9muf5p778c3d6ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYDdKP6M74xY5B-bTWWiA-8RAJi0wuA_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525799943137-i6io22fqca077mlra9muf5p778c3d6ec.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525799943137-7ee8v53vjbdtrrfdc2e1o0g8347vfv12.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
